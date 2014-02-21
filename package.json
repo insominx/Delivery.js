@@ -7,11 +7,11 @@
 			"email":"liam.kaufman@gmail.com",
 			"web":"http://liamkaufman.com"
 		},
-	"version":"0.0.3",
+	"version":"0.0.4",
 	"keywords":["file","transfer","push","socket.io","websockets"],
 	"repository":{
 		"type":"git",
-		"url":"https://liamks@github.com/liamks/Delivery.js.git"	
+		"url":"https://insominx@github.com/insominx/Delivery.js.git"
 	},
 	"engines":{
 		"node":">=0.6.0"
